@@ -8,7 +8,7 @@ const progressContainer = document.getElementById("progress-container");
 const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 // Songs Titles
-const songs = ["kun faya kun", "i would never fall in love", "ishq", "die with a smile"];
+const songs = ["kun faya kun", "i would never fall in love", "ishq", "die with a smile", "jhol"];
 // KeepTrack of song
 let songIndex = 0;
 // Initially load song details into DOM
